@@ -1,8 +1,8 @@
-# ${COURSE TITLE}
+# Data Essentials for Building Predictive Models with Python
 
 ![Powered by Jupyter Logo](https://cdn.oreillystatic.com/images/icons/powered_by_jupyter.png)
 
-This project contains the Jupyter Notebooks and supporting files for _${COURSE TITLE}_ with ${INSTRUCTOR}. 
+This project contains the Jupyter Notebooks and supporting files for Data Essentials for Building Predictive Models with Python (Data Quality Series) with Janani Ravi. 
 
 These notebooks can be run on the O'Reilly Learning Platform [here](https://learning.oreilly.com/jupyter-notebooks/~/${NOTEBOOK_FPID}).
 
