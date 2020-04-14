@@ -2,7 +2,7 @@
 
 ![Powered by Jupyter Logo](https://cdn.oreillystatic.com/images/icons/powered_by_jupyter.png)
 
-This project contains the Jupyter Notebooks and supporting files for Data Essentials for Building Predictive Models with Python (Data Quality Series) with Janani Ravi. 
+This project contains the Jupyter Notebooks and supporting files for _Data Essentials for Building Predictive Models with Python (Data Quality Series)_ with Janani Ravi. 
 
 These notebooks can be run on the O'Reilly Learning Platform [here](https://learning.oreilly.com/jupyter-notebooks/~/${NOTEBOOK_FPID}).
 
@@ -12,4 +12,4 @@ This is a public repository so there is no need to create an account to download
 
 To download via git from your preferred terminal application, type:
 
-```git clone https://resources.oreilly.com/binderhub/${END OF URL}```
+```git clone https://resources.oreilly.com/binderhub/data-essentials-for-building-predictive-models-with-python```
