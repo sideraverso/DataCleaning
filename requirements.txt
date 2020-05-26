@@ -1,1 +1,9 @@
 ## Please list additional packages with version numbers
+pip install pandas
+pip install matplotlib
+pip install numpy
+pip install seaborn
+pip install scikit-learn
+pip install scipy
+pip install yellowbrick
+pip install plotly
