@@ -2,9 +2,12 @@
 
 ![Powered by Jupyter Logo](https://cdn.oreillystatic.com/images/icons/powered_by_jupyter.png)
 
-This project contains the Jupyter Notebooks and supporting files for _Data Essentials for Building Predictive Models with Python (Data Quality Series)_ with Janani Ravi. 
+This project contains the Jupyter Notebooks and supporting files for the _Data Quality Series_ with Janani Ravi. The series has 3 courses:
+* Data Cleaning Essentials for Building Predictive Models with Python
+* Data Prep Essentials for Building Predictive Models with Python: Processing numeric, categorical, and text data
+* Data Processing Essentials for Building Predictive Models with Python: Performing feature selection and dimensionality reduction
 
-These notebooks can be run on the O'Reilly Learning Platform [here](https://learning.oreilly.com/jupyter-notebooks/~/${NOTEBOOK_FPID}).
+These notebooks can be run on the O'Reilly Learning Platform [here](https://learning.oreilly.com/jupyter-notebooks/~/9781492084969).
 
 It contains both the exercises (/notebooks), possibly the solutions (/solutions), as well as any data or files needed (/data). If you are familiar with docker, there is also a dockerfile included for your convenience. 
 
