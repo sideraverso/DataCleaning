@@ -8,3 +8,4 @@ scipy
 yellowbrick
 plotly
 mlxtend
+statsmodels
